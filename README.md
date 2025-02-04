@@ -35,12 +35,12 @@
 
 ## Ход исследования
 
-1. [Подготовка данных](project.ipynb#data_preparation)
-2. [Функции извлечения данных из текста](project.ipynb#search_function)
-3. [Извлечение данных](project.ipynb#data_extraction)
-4. [Обработка аномалий](project.ipynb#anomaly_processing)
-5. [Исследовательский анализ данных](project.ipynb#exploratory_data_analysis)
-6. [Общий вывод](project.ipynb#conclusion)
+1. Подготовка данных
+2. Функции извлечения данных из текста
+3. Извлечение данных
+4. Обработка аномалий
+5. Исследовательский анализ данных
+6. Общий вывод
 
 ## Источник данных
 
